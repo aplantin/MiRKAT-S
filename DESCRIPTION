@@ -1,0 +1,12 @@
+Package: MiRKATS
+Type: Package
+Title: Microbiome Regression-based Kernal Association Test for Survival (MiRKAT-S)
+Version: 1.0
+Date: 2016-04-22
+Author: Anna Plantinga <aplantin@uw.edu>, Michael Wu <mcwu@fhcrc.org>
+Maintainer: Anna Plantinga <aplantin@uw.edu>
+Depends: survival, CompQuadForm, GUniFrac
+Suggests: knit, rmarkdown 
+VignetteBuilder: knitr 
+Description: Community level test for association between microbiome composition and survival outcomes via user-defined kernel or distance matrices. Recommended distances include the UniFrac and generalized UniFrac distances and the Bray-Curtis dissimilarity metric.
+License: GPL (>= 2)
