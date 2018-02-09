@@ -8,4 +8,4 @@ To install MiRKATS from an interactive R session:
   install_github("aplantin/MiRKATS") <br/>
   library(MiRKATS) <br/>
 
-The MiRKATS function is also available from R package [MiRKAT](https://cran.r-project.org/web/packages/MiRKAT/index.html), available on CRAN. 
+The MiRKATS function is also available as part of the R package [MiRKAT](https://cran.r-project.org/web/packages/MiRKAT/index.html), available on CRAN. 
