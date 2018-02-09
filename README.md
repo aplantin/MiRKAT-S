@@ -4,12 +4,8 @@ The R package MiRKATS performs community-level association testing for microbiom
 
 To install MiRKATS from an interactive R session: 
 
-
-library(devtools)
-
-install_github("aplantin/MiRKATS")
-
-library(MiRKATS)
-
+  library(devtools) <br/>
+  install_github("aplantin/MiRKATS") <br/>
+  library(MiRKATS) <br/>
 
 The MiRKATS function is also available from R package [MiRKAT](https://cran.r-project.org/web/packages/MiRKAT/index.html), available on CRAN. 
